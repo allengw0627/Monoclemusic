@@ -1,0 +1,9 @@
+C:\inetpub\wwwroot\Monoclemusic\Monoclemusic\bin\Monoclemusic.dll
+C:\inetpub\wwwroot\Monoclemusic\Monoclemusic\bin\Monoclemusic.pdb
+C:\inetpub\wwwroot\Monoclemusic\Monoclemusic\bin\Monoclemusic.xml
+C:\inetpub\wwwroot\Monoclemusic\Monoclemusic\obj\Release\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\Monoclemusic\Monoclemusic\obj\Release\Monoclemusic.Resources.resources
+C:\inetpub\wwwroot\Monoclemusic\Monoclemusic\obj\Release\Monoclemusic.vbproj.GenerateResource.Cache
+C:\inetpub\wwwroot\Monoclemusic\Monoclemusic\obj\Release\Monoclemusic.dll
+C:\inetpub\wwwroot\Monoclemusic\Monoclemusic\obj\Release\Monoclemusic.xml
+C:\inetpub\wwwroot\Monoclemusic\Monoclemusic\obj\Release\Monoclemusic.pdb
